@@ -15,3 +15,30 @@
  
 - ![Вставляємо картину з прямим посиланням на репозиторій](https://github.com/IvanovVladyslav/OOP_FireWater/blob/main/init%202/logo-lit.jpg?raw=true "Не забуваємо замінити blob на raw") 
 ---
+### Робота з частинами коду
+
+def hello_world():
+print("Hello, wold")
+
+```python
+def hello_world():
+    print("Hello, world!")
+```
+1. Код написаний на Java
+```java
+public class HelloWorld {
+    public static void main(Syring[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+````
+---
+
+### Робота з таблицями
+
+| Навчальний заклад (лого) | Група | Імя |
+|:---:|---:|---:|
+|![будь який текст](logo-lit.jpg "ІТ коледж Львів")|**ТК - 330**|_Богдан_|
+|![](image-1.png) "Національний Університет Львівська політехніка")| ТК - 1 | Богдан |
+***
+---
