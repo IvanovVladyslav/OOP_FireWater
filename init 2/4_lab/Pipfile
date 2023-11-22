@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 requests = "*"
+jikanpy-v4 = "*"
 
 [dev-packages]
 pytest = "*"
