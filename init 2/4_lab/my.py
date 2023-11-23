@@ -5,7 +5,10 @@
 
 #for line in r.iter_lines():
     #print(line)
+import os
 
+print (f"Це значення змінної MY_ENV: {os.environ.get('MY_ENV')}")
+print (f"Це значення змінної MY_ENV_FROM_FILE: {os.environ.get('MY_ENV_FROM_FILE')}")
 
 from jikanpy import Jikan
 jikan = Jikan()
